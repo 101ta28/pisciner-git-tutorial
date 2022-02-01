@@ -5,3 +5,5 @@ I don't like vim :(
 I love VSCode!! :)
 
 "Ikitaitte ieeeeeeee!!"
+Thank you
+But Tomosuke uses vim.

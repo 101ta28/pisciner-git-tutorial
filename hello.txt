@@ -5,3 +5,4 @@ I don't like vim :(
 I love VSCode!! :)
 
 Thank you
+But Tomosuke uses vim.
